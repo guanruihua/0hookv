@@ -10,6 +10,7 @@
   "compilerOptions": {
     "outDir": "lib",
     "esModuleInterop": true,
+    "module": "ESNext",
     "allowSyntheticDefaultImports": true,
     "moduleResolution": "node",
     "baseUrl": ".",
